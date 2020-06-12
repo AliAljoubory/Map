@@ -96,6 +96,7 @@
 				TargetAttributes = {
 					4849665721CEB5E300B8CA88 = {
 						CreatedOnToolsVersion = 10.1;
+						LastSwiftMigration = 1120;
 					};
 				};
 			};
@@ -291,7 +292,7 @@
 				);
 				PRODUCT_BUNDLE_IDENTIFIER = "com.alialjoubory.MapKit-Tutorial";
 				PRODUCT_NAME = "$(TARGET_NAME)";
-				SWIFT_VERSION = 4.2;
+				SWIFT_VERSION = 5.0;
 				TARGETED_DEVICE_FAMILY = "1,2";
 			};
 			name = Debug;
@@ -309,7 +310,7 @@
 				);
 				PRODUCT_BUNDLE_IDENTIFIER = "com.alialjoubory.MapKit-Tutorial";
 				PRODUCT_NAME = "$(TARGET_NAME)";
-				SWIFT_VERSION = 4.2;
+				SWIFT_VERSION = 5.0;
 				TARGETED_DEVICE_FAMILY = "1,2";
 			};
 			name = Release;
